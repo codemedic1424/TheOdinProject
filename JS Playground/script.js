@@ -41,3 +41,32 @@ let actual = max - 13;
 let percentage = actual / max;
 
 console.log(percentage);
+
+let message;
+
+message = 'Hello';
+
+// alert(message);
+
+const myInt = 5;
+const myFloat = 6.667;
+myInt;
+myFloat;
+
+console.log(typeof myInt);
+console.log(typeof myFloat);
+
+const lotsOfDecimal = 1.766584958675746364;
+console.log(lotsOfDecimal);
+const twoDecimalPlaces = lotsOfDecimal.toFixed(2);
+console.log(twoDecimalPlaces);
+
+let myNumber = "74";
+// console.log(myNumber +=3);
+console.log(typeof myNumber);
+myNumber = Number(myNumber) +3;
+console.log(myNumber);
+
+console.log(10+7);
+console.log(9*8);
+console.log(60 % 3);

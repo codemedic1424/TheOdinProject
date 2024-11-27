@@ -5,3 +5,6 @@
 
 <!-- const is a variable that CANNOT be reassigned -->
 
+<!-- UPPERCASE - hardcoded variables.  -->
+
+<!--  to round your number to a fixed number of decimal places, use the 'toFixed()' method. -->
